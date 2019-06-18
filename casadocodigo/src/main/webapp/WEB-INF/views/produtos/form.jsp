@@ -6,10 +6,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Casa do Código</title>
+<title>Casa do Código - Formulário</title>
 </head>
 <body>
-
+	<h1> Formulário de Produtos </h1>
 	<form action="/casadocodigo/produtos" method="post">
 		<div>
 			<label>Título</label>
