@@ -10,6 +10,9 @@
 </head>
 <body>
 	<h1> Listagem de Produtos </h1>
+	
+	<div>${Sucesso}</div>
+	</br>
 	<table>
 		<tr>
 			<td><b> Título </b></td>
